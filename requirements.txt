@@ -89,7 +89,7 @@ notebook==6.0.0
 numexpr==2.7.0
 numpy==1.18.1
 olefile==0.46
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 openfile==0.0.7
 packaging==20.0
 pandas==0.25.3
