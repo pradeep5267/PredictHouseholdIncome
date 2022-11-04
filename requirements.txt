@@ -167,7 +167,7 @@ tornado==6.0.3
 tqdm==4.38.0
 traitlets==4.3.3
 translate-toolkit==2.4.0
-Twisted==19.10.0
+Twisted==22.10.0
 typing==3.6.6
 uctools==1.2.1
 urllib3==1.25.6
